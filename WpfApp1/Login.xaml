@@ -13,7 +13,7 @@
         <TextBox Name="pass" HorizontalAlignment="Left" Margin="199,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="173" Height="29"/>
         <Label Content="Email" HorizontalAlignment="Left" Margin="126,35,0,0" VerticalAlignment="Top" FontSize="16"/>
         <Label Content="password" HorizontalAlignment="Left" Margin="126,110,0,0" VerticalAlignment="Top"/>
-        <Button Content="Login" HorizontalAlignment="Left" Margin="211,177,0,0" VerticalAlignment="Top" Height="43" Width="158" RenderTransformOrigin="0.5,0.5" FontSize="20" Click="Button_Click">
+        <Button Content="Login Button" HorizontalAlignment="Left" Margin="211,177,0,0" VerticalAlignment="Top" Height="43" Width="158" RenderTransformOrigin="0.5,0.5" FontSize="20" Click="Button_Click">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
