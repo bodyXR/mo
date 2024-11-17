@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ddfs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|e:\\ddfs\\wpfapp1\\employess.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\employess.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|E:\\ddfs\\wpfapp1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B706D-39D0-4687-842A-185F00333FA7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employess.xaml.cs",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Employess.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Employess.xaml.cs",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Employess.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Employess.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:01:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfApp1\\Model1.edmx",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp1\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-17T07:48:19.662Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:47:43.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Admin.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Admin.xaml",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Admin.xaml",
+              "RelativeToolTip": "WpfApp1\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T08:08:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Login.xaml",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Login.xaml",
+              "RelativeToolTip": "WpfApp1\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:15:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T06:47:43.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T08:55:08.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "WpfApp1\\App.config",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\App.config",
+              "RelativeToolTip": "WpfApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T07:09:12.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Admin.xaml.cs",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Admin.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Admin.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:20:58.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\ddfs\\WpfApp1\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model1.Context.cs",
+              "ToolTip": "E:\\ddfs\\WpfApp1\\Model1.Context.cs",
+              "RelativeToolTip": "WpfApp1\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:52:17.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
